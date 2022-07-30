@@ -1,6 +1,6 @@
 
 
-<h1> ### Hi there 👋 i am Caleb Seña </h1>
+<h1 aling = "center" >----------- Hi there 👋 i am Caleb Seña -----------------------</h1>
 ### I am learning java python and go
  
 <!--
