@@ -1,6 +1,6 @@
 
 
-<h1 aling = "center" > ----------------------- Hi there 👋 i am Caleb Seña -----------------------</h1>
+<h1 aling = "center" > ------ Hi there 👋 i am Caleb Seña------</h1>
 <!--
 **Calebsenm/Calebsenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -20,5 +20,5 @@ Where to find me
   </h2>  
 </p>
 
-<h2>.........................................................................</h2>
+<h2></h2>
 </div>
