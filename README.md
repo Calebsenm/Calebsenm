@@ -14,6 +14,8 @@
 <p align="center">
   <h2> 
       In constant learning
-  </h2>
+  </h2>  
 </p>
+
+<h1> Proximos proyectos en proseso ....</h1>
 </div>
