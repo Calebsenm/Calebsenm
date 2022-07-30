@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+
+### Where to find me 
+-[Youtube](https://www.youtube.com/channel/UCcMc91HTGMh5w0AEp-eMHbw)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
