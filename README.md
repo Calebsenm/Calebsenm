@@ -1,11 +1,11 @@
+<div align = "center" > 
 
-
-<h1 aling = "center" > ------ Hi there 👋 i am Caleb Seña------</h1>
+<h1 aling = "center" >  Hi there 👋 i am Caleb Seña</h1>
 <!--
 **Calebsenm/Calebsenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 
-<div align = "center" > 
+
  
 <h2> I am learning java python and go </h2>
  
