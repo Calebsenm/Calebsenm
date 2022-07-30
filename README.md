@@ -1,7 +1,9 @@
 
 
-<h1 aling = "center" >----------- Hi there 👋 i am Caleb Seña -----------------------</h1>
-### I am learning java python and go
+<h1 aling = "center" >------------------ Hi there 👋 i am Caleb Seña -----------------------</h1>
+
+<h2 aling = "center"> I am learning java python and go </h2>
+ 
  
 <!--
 **Calebsenm/Calebsenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
