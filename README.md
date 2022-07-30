@@ -9,7 +9,8 @@
  
 <h2> I am learning java python and go </h2>
  
-### Where to find me 
+<h3> Where to find me  </h3>
+ <i class="fa-brands fa-instagram icono"></i>
 -[Youtube](https://www.youtube.com/channel/UCcMc91HTGMh5w0AEp-eMHbw)
 -[Instagram](https://www.instagram.com/calebsenm/)
 
