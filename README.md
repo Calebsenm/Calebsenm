@@ -1,6 +1,6 @@
 
 
-<h1 aling = "center" > --------- Hi there 👋 i am Caleb Seña --------</h1>
+<h1 aling = "center" > ----------------------- Hi there 👋 i am Caleb Seña -----------------------</h1>
 <!--
 **Calebsenm/Calebsenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -9,9 +9,7 @@
  
 <h2> I am learning java python and go </h2>
  
-<h3> Where to find me  </h3>
- <i class="fa-brands fa-instagram icono"></i>
- ###
+###Where to find me 
 -[Youtube](https://www.youtube.com/channel/UCcMc91HTGMh5w0AEp-eMHbw)
 -[Instagram](https://www.instagram.com/calebsenm/)
 
