@@ -1,10 +1,12 @@
+<div align = "center" > 
+
 ### Hi there 👋 i am Caleb Seña
 ### I am learning java python and go
  
 <!--
 **Calebsenm/Calebsenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<div align = "ceter" > 
+
 
 
 ### Where to find me 
@@ -17,5 +19,5 @@
   </h2>  
 </p>
 
-<h1> Proximos proyectos en proseso ....</h1>
+<h2> Proximos proyectos en proseso ....</h2>
 </div>
