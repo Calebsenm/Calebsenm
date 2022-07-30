@@ -13,8 +13,7 @@
 
 <p align="center">
   <h2> 
-      -[Youtube](https://www.youtube.com/channel/UCcMc91HTGMh5w0AEp-eMHbw)
-      -[Instagram](https://www.instagram.com/calebsenm/)
-   </h2>
+      In constant learning
+  </h2>
 </p>
 </div>
