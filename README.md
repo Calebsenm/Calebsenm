@@ -20,5 +20,5 @@ Where to find me
   </h2>  
 </p>
 
-<h2></h2>
+<h2> Fullstack developer </h2>
 </div>
