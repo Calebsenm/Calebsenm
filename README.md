@@ -7,7 +7,7 @@
 
 
  
-<h2> I am learning java python and go </h2>
+<h2> I am learning  -> Java  - > Python ->  Go </h2>
  
 Where to find me
  
