@@ -11,7 +11,7 @@
  
 Where to find me
  
--[Youtube](youtube.com/@techcsm865)
+-[Youtube](https://www.youtube.com/@techcsm865/videos)
 -[Instagram](https://www.instagram.com/calebsenm/)
 
 <p align="center">
