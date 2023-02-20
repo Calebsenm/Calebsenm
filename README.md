@@ -7,7 +7,7 @@
 
 
  
-<h2> I am learning  -> Java  - > Python ->  Go    ->  hmtl - css - Js / React        </h2>
+<h2> I am learning >  Go    ->  hmtl - css - Js / React </h2>
  
 Where to find me
  
