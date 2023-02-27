@@ -4,10 +4,7 @@
 <!--
 **Calebsenm/Calebsenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-
-
- 
-<h2> I am learning >  Go    ->  hmtl - css - Js / React </h2>
+<h2> I am learning >  Go one of  favorite   languajes   | HTML - CSS - JS / REACT |  sometimes Java and  PYTHON </h2>
  
 Where to find me
  
@@ -17,8 +14,12 @@ Where to find me
 <p align="center">
   <h2> 
       In constant learning
-  </h2>  
+  </h2>
+ 
 </p>
 
 <h2> Fullstack developer </h2>
+
+<h2>my  curiosity do not have  a  limit</h2>
 </div>
+
