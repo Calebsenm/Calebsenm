@@ -4,7 +4,7 @@
 <!--
 **Calebsenm/Calebsenm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h2> I am learning >  Go one of  favorite   languajes | sometimes Java and  Python</h2>
+<h2> I am learning >  Go one of  favorite  Programming languajes | sometimes Java and  Python</h2>
  
 Where to find me
  
