@@ -1,4 +1,3 @@
-<div align = "center" > 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Caleb Seña 
 ==================================================================================================================================
@@ -13,8 +12,6 @@ Where to find me
 -[Instagram](https://www.instagram.com/calebsenm/)
 
 <h2>The curiosity do not have a  limit  :)  </h2>
-</div>
-
 
 ### Skills
 
