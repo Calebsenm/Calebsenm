@@ -6,10 +6,7 @@ Back-end Developer
 
 * 🌍  I'm from Colombia 
 
-Where to find me
- 
--[Youtube](https://www.youtube.com/@techcsm865/videos)
--[Instagram](https://www.instagram.com/calebsenm/)
+Where to find me -[Youtube](https://www.youtube.com/@Caleb_Sena/videos)  -[Instagram](https://www.instagram.com/calebsenm/)
 
 <h2>The curiosity do not have a  limit  :)  </h2>
 
