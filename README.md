@@ -7,8 +7,8 @@ My name is Caleb Seña
 ## Skills
 
 * Go
-[![Go](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg)](https://go.dev/doc/)
+[![Go](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg)](https://go.dev/doc/) `class="fa-lg"`
 * Java
-[![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg)](https://www.oracle.com/java/)
+[![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg)](https://www.oracle.com/java/) `class="fa-lg"`
 * Python
-[![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)](https://www.python.org/)
+[![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)](https://www.python.org/) `class="fa-lg"`
