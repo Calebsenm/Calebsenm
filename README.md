@@ -1,14 +1,23 @@
-# Hi 
-[Image of Caleb Seña](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-My name is Caleb Seña
-
-## System engering👨‍💻
-
-## Skills
-
-* Go
-[![Go](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg)](https://go.dev/doc/) `class="fa-lg"`
-* Java
-[![Java](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg)](https://www.oracle.com/java/) `class="fa-lg"`
-* Python
-[![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)](https://www.python.org/) `class="fa-lg"`
+<!DOCTYPE html>
+<html>
+<head>
+<title>Caleb Seña</title>
+</head>
+<body>
+<h1>Hi</h1>
+<img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Caleb Seña">
+<h2>My name is Caleb Seña</h2>
+<h3>System Engineer</h3>
+<ul>
+<li>
+<a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" class="fa-lg"></a>
+</li>
+<li>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" class="fa-lg"></a>
+</li>
+<li>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" class="fa-lg"></a>
+</li>
+</ul>
+</body>
+</html>
