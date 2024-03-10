@@ -4,8 +4,8 @@
 
 </head>
 <body>
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Caleb Seña"> I am Caleb Seña  </h1>
-<h3>System Engineer</h3>
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Caleb Seña"> System Engineer  </h1>
+
 <ul>
 <li>
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" class="fa-lg"></a>
