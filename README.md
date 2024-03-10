@@ -4,9 +4,7 @@
 
 </head>
 <body>
-<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Caleb Seña">  <h2>My name is Caleb Seña</h2> </h1>
-
-
+<h1>Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Caleb Seña"> I am Caleb Seña  </h1>
 <h3>System Engineer</h3>
 <ul>
 <li>
