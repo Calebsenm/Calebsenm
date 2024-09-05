@@ -6,12 +6,12 @@
     <h3> Hi, I am Caleb a System Engenier and Programer. <h3> 
     <h3> Skills </h3> 
         <p> 
-            Go
-            html
-            css
-            JavaScript-TypeScript
-            React- nexjs
-            Sql
+            Go   \br
+            html \br
+            css \br
+            JavaScript-TypeScript \br
+            React- nexjs \br
+            Sql \br
         </p>
     
 </body>
