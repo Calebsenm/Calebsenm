@@ -1,7 +1,7 @@
 ## Hi, I am Caleb a System Engenier  
 I'm a curious person who enjoys creating things.
 
-<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,go,java,spring,mysql,postgresql,linux,docker&perline=10" />
+<img width="500px"  src="https://skillicons.dev/icons?i=js,html,css,react,go,java,spring,mysql,postgresql,linux,bash,docker&perline=10" />
 
 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
